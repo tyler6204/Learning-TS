@@ -1,0 +1,6 @@
+{
+  "scripts": {
+    "carson": "tsx Carson.ts",
+    "jacob": "tsx Jacob.ts"
+  }
+}
